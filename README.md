@@ -6,7 +6,7 @@ This proxy server needs to be run on another machine in the same subnet, it will
 
 ## How to
 * Clone the repo
-* Replace `xboxone.int` with the IP or hostname of your Xbox One IP address running Kodi with TubeCast.
+* Replace `xboxone.int` in `server.js` with the IP or hostname of your Xbox One IP address running Kodi with TubeCast.
 * ```npm install && npm start```
 
 ## Troubleshooting
